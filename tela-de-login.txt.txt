@@ -1,0 +1,5 @@
+Email
+numero de celular
+cpf
+senha
+cadastro
